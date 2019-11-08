@@ -1,0 +1,3 @@
+class battle_system {
+
+}
